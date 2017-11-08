@@ -82,6 +82,9 @@
     <Content Include="html\tilemap05.html" />
     <Content Include="html\tilemap06.html" />
     <Content Include="html\tilemap07.html" />
+    <Content Include="html\tilemap08.html" />
+    <Content Include="image\tileset07.png" />
+    <Content Include="image\tileset08.png" />
     <Content Include="js\tilemap06.js" />
     <Content Include="js\tilemap02.js" />
     <Content Include="js\tilemap01.js" />
@@ -89,6 +92,7 @@
     <Content Include="js\tilemap04.js" />
     <Content Include="js\tilemap05.js" />
     <Content Include="js\tilemap07.js" />
+    <Content Include="js\tilemap08.js" />
     <Content Include="simple.html" />
     <Content Include="image\tileset06.png" />
     <Content Include="Web.config" />
