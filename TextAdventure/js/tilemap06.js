@@ -25,7 +25,7 @@ var tileW = 40, tileH = 40;
 var mapW = 20, mapH = 20;
 var currentSecond = 0, frameCount = 0, framesLastSecond = 0, lastFrameTime = 0;
 
-var tileset = null, tilesetURL = "tileset.png", tilesetLoaded = false;
+var tileset = null, tilesetURL = "../image/tileset06.png", tilesetLoaded = false;
 
 var floorTypes = {
     solid: 0,
