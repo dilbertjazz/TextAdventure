@@ -75,38 +75,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="html\tilemap02.html" />
-    <Content Include="html\tilemap01.html" />
-    <Content Include="html\tilemap03.html" />
-    <Content Include="html\tilemap04.html" />
-    <Content Include="html\tilemap05.html" />
-    <Content Include="html\tilemap06.html" />
-    <Content Include="html\tilemap07.html" />
-    <Content Include="html\tilemap08.html" />
-    <Content Include="html\tilemap09.html" />
-    <Content Include="html\tilemap10.html" />
-    <Content Include="html\tilemap11.html" />
-    <Content Include="html\tilemap12.html" />
-    <Content Include="image\tileset07.png" />
-    <Content Include="image\tileset08.png" />
-    <Content Include="image\tileset09.png" />
-    <Content Include="image\tileset10.png" />
-    <Content Include="image\tileset11.png" />
-    <Content Include="image\tileset12.png" />
-    <Content Include="js\tilemap06.js" />
-    <Content Include="js\tilemap02.js" />
-    <Content Include="js\tilemap01.js" />
-    <Content Include="js\tilemap03.js" />
-    <Content Include="js\tilemap04.js" />
-    <Content Include="js\tilemap05.js" />
-    <Content Include="js\tilemap07.js" />
-    <Content Include="js\tilemap08.js" />
-    <Content Include="js\tilemap09.js" />
-    <Content Include="js\tilemap10.js" />
-    <Content Include="js\tilemap11.js" />
-    <Content Include="js\tilemap12.js" />
+    <Content Include="html\tilemap.html" />
+    <Content Include="image\tileset.png" />
+    <Content Include="js\character.js" />
+    <Content Include="js\tilemap.js" />
     <Content Include="simple.html" />
-    <Content Include="image\tileset06.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
